@@ -22,3 +22,5 @@ gcloud container clusters get-credentials private-cluster --zone us-central1-a
 ```
 kubectl apply -f deployment
 ```
+## Connect using load balancer public IP
+![Screenshot from 2022-05-09 00-51-58](https://user-images.githubusercontent.com/31425172/167319303-b08b3b72-88b1-473c-9d6a-7300d3d5676c.png)
