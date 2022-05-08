@@ -13,7 +13,7 @@ cd infrastructure/
 terraform init
 terraform apply
 ```
-### Connect to private GKE cluster through private vm
+## Connect to private GKE cluster through private vm
 ```
 gcloud compute ssh management-instance --tunnel-through-iap
 gcloud container clusters get-credentials private-cluster --zone us-central1-a
