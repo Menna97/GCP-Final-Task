@@ -1,5 +1,5 @@
-# GCP-Final-Task
-Deploy a python web application on GKE. Infrastructure built using terraform.
+# GCP-Final-Task 
+Deploy a python web application on GKE. Infrastructure built using terraform. Using docker to containerize the application.
 
 ## Build image and upload to GCR
 ```
